@@ -1,0 +1,1 @@
+why do we need a vue router? why cant we simply do it like this example ? 
